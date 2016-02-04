@@ -1,11 +1,11 @@
 package ejercicios;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 /**
  * @author Manuel
  * @version 1.0
  */
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 public class PalabraLeida {
 	//atributos
 	private String valor;
